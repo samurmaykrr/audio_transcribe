@@ -15,11 +15,17 @@ A command-line tool for transcribing audio files using OpenAI's Whisper model.
 
 ```bash
 # Clone the repository
-git clone https://github.com/audio_transcribe/audio_transcribe.git
+git clone https://github.com/samurmaykrr/audio_transcribe.git
 cd audio_transcribe
 
 # Install the package
 pip install -e .
+```
+
+OR
+
+```bash
+pip install audio-transcribe
 ```
 
 ## Usage
